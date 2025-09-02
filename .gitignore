@@ -1,0 +1,6 @@
+node_modules
+notes.db
+notes.db-shm
+notes.db-wal
+.env
+.DS_Store
